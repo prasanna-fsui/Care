@@ -1,0 +1,6 @@
+{
+  "name": "CarePulse Clinical & Doctor Consultation Network",
+  "description": "Comprehensive medical consultation platform featuring doctor appointments, virtual video care, scan reports, EHR case history, health check-up packages, online pharmacy, emergency SOS, and discharge summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
